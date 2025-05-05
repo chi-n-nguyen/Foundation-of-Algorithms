@@ -1,2 +1,3 @@
 # COMP10002-2025-S1
-My assignment for the "notorious" subject FOA in Unimelb
+My assignment submission for the subject COMP10002 Foundations of Algorithms at the University of Melbourne, 2025, Semester 1
+
