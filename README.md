@@ -1,8 +1,10 @@
 # COMP10002-2025-S1
-My assignment submission for the subject COMP10002 Foundations of Algorithms at the University of Melbourne, 2025, Semester 1
+subject: foundations of algorithms
 
-Lecturer: Dr. Shaanan Cohney
+semester 1, 2025
 
-Tutor: Yutong Bu
+lecturer: Dr. Shaanan Cohney
+
+tutor: Yutong Bu
 
 
