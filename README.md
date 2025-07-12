@@ -1,4 +1,4 @@
-Subject: Foundations of Algorithms
+Subject: Foundations of Algorithms (Intro to DSA)
 
 Semester 1, 2025
 
