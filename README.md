@@ -1,9 +1,10 @@
-subject: foundations of algorithms
+Subject: Foundations of Algorithms
 
-semester 1, 2025
+Semester 1, 2025
 
-lecturer: Dr. Shaanan Cohney
+Lecturer: Dr. Shaanan Cohney
 
-tutor: Yutong Bu
+Tutor: Yutong Bu
+
 
 
